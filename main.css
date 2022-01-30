@@ -51,7 +51,7 @@ h1{
     clip-path: polygon(50% 0%,100% 40%, 80% 100%, 20% 100%, 0% 40%);
 }
 /*-------Shape4----------*/
-/*-------Shape4----------*/
+/*-------Shape5----------*/
 .shape5{
     width: 100px;
     height: 100px;
@@ -59,4 +59,15 @@ h1{
     background-size: cover;
     clip-path: polygon(100% 0%,80% 50%,100% 100%,20% 100%, 0% 50%, 20% 0%);
 }
-/*-------Shape4----------*/
+/*-------Shape5----------*/
+/*-------Shape6----------*/
+.shape6{
+    width: 100px;
+    height: 100px;
+    background: url("https://www.crayon.com/globalassets/us/seasonal-backgrounds/fall-2021/bridge-lake-fall-microsoft-teams-background.png?") center no-repeat;
+    background-size: cover;
+    clip-path: polygon(40% 0,40% 20%, 100% 20%, 100% 80%,
+    40% 80%, 40% 100%,0% 50%);
+
+}
+/*-------Shape6----------*/
