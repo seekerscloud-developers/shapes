@@ -104,4 +104,16 @@ h1{
 
 }
 /*-------Shape8----------*/
+/*-------Shape9----------*/
+.shape9{
+    width: 100px;
+    height: 100px;
+    background: url("https://www.techrepublic.com/a/hub/i/r/2021/02/05/2c503225-0fb7-447f-8f34-facda0dc4472/resize/1200x/cda20270e6cc67f471f748edf15cba0f/smash-3.jpg") center no-repeat;
+    background-size: cover;
+    /*border-radius: 100%;*/
+    clip-path: circle(50% at 50% 50%);
 
+
+
+}
+/*-------Shape9----------*/
