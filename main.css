@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    padding: 20px 0;
+}
+.items{
+    height: 200px;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+}
+.bottom{
+    flex: 1;
+    border: 1px solid darkgrey;
+}
+/*-------Shape1----------*/
+
+/*-------Shape1----------*/
