@@ -71,3 +71,25 @@ h1{
 
 }
 /*-------Shape6----------*/
+/*-------Shape7----------*/
+.shape7{
+    width: 100px;
+    height: 100px;
+    background: url("https://cdn5.vectorstock.com/i/1000x1000/28/59/amazing-abstract-universe-background-design-vector-31172859.jpg") center no-repeat;
+    background-size: cover;
+    clip-path: polygon(
+            50% 0%, /*1*/
+            60% 30%, /*2*/
+            100% 30%, /*3*/
+            70% 55%, /*4*/
+            85% 100%, /*5*/
+            50% 65%, /*6*/
+            15% 100%, /*7*/
+            30% 55%, /*8*/
+            0% 30%,/*9*/
+            40% 30%/*10*/
+    );
+
+}
+/*-------Shape7----------*/
+
